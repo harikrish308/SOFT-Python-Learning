@@ -9,4 +9,4 @@
 |-----|-------|--------| 
 | Day 01 | Introduction | Done | 
 | Day 02 | Variables & Built-in Functions | Done |
-
+| Day 03 | Operators | Done |
