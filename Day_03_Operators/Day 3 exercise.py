@@ -111,7 +111,7 @@ print('1 is 1', 1 is 1)
 print('1 is not 2', 1 is not 2)           # True - because 1 is not 2
 print('A in Hari Krishnan', 'A' in 'Hari Krishnan')  # True - A found in the string
 print('B in Hari Krishnan', 'B' in 'Hari Krishnan')  # False -there is no uppercase B
-# True - because coding for all has the word coding
+# True - because  coding for all has the word coding
 print('coding' in 'coding for all')
 print('a in an:', 'a' in 'an')      # True
 print('4 is 2 ** 2:', 4 is 2 ** 2)   # True
