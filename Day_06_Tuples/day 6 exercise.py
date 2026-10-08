@@ -21,7 +21,7 @@ print("Is 'banana' in fruits?", "banana" in fruits)
 def get_dimensions():
     width = 1920
     height = 1080
-    return width, height  # Implicitly returns a tuple (width, height)
+    return width, height  #  Implicitly returns a tuple (width, height)
 
 
 w, h = get_dimensions()
