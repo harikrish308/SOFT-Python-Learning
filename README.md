@@ -13,3 +13,4 @@
 | Day 04 | Strings   | Done |
 | Day 05 | Lists     | Done |
 | Day 06 | Tuples    | Done |
+| Day 07 | Sets      | Done |
